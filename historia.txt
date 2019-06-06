@@ -1,3 +1,4 @@
 Esta es la historia de Martin
 Martín tiene 24 años y vive en México
 Hoy hablemos de su historia.
+Es programador
